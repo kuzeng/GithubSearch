@@ -40,7 +40,7 @@ header {
   margin: auto 2rem;
 }
 
-ul {
+.navbar-list {
   display: flex;
 }
 
@@ -113,4 +113,19 @@ form {
 
 .description {
   font-size: 1.5rem;
+}
+
+.following-user-image {
+  width: 100px;
+  margin-right: 2rem;
+
+}
+
+.following-user {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.following-list {
+  text-align: center;
 }

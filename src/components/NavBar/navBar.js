@@ -5,7 +5,7 @@ export default class Navbar extends Component {
     render() {
         return (
             <nav>
-                <ul>
+                <ul className="navbar-list">
                     <li className="navbar-item">
                         <Link to="/" className="nav-link">Home</Link>
                     </li>
